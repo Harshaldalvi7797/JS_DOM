@@ -1,0 +1,3 @@
+/** @format */
+
+console.dir(document);
